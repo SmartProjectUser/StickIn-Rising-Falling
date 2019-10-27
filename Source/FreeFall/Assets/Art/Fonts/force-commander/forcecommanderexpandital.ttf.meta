@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c99211e20eb074c30a5f00f220b80187
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Force Commander Expanded Italic
+  fontNames:
+  - Force Commander Expanded Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3af32e0a0204e42d1a3415ee33d49072, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ef287cb053ec34b8aadfc6ded8d8d8c8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coffin Stone 3D Italic
+  fontNames:
+  - Coffin Stone 3D Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b82dbdc8619744d76b45aac49d0e6cd9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

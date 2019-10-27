@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c5e5298f1dec04ccf8e43940188ee84c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious Outline
+  fontNames:
+  - Red Delicious Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43d02fdd05c5e4c6a8bbb4dc0a6a4bb3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

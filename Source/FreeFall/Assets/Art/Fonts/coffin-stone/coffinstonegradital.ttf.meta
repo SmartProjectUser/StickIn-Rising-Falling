@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aed4521aec64247e6b75e53a96f0a51e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coffin Stone Gradient Italic
+  fontNames:
+  - Coffin Stone Gradient Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2df3cc43efb4945e4911849b90941a25, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
