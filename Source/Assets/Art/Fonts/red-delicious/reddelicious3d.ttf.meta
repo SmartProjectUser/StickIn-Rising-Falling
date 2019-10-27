@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b867189ed55c841438db78ac5619109a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious 3D
+  fontNames:
+  - Red Delicious 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11c28c2041a08433db3fed31a35358ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

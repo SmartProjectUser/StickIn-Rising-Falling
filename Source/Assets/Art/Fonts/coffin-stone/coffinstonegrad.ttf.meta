@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 665aeb7df10804f36a38d6624a3b1bd9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coffin Stone Gradient
+  fontNames:
+  - Coffin Stone Gradient
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 55a002564a7da42978035f498927d6d8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

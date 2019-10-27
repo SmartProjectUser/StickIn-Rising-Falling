@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 720e1b2a533f14d3ba21cd8f26ce1598
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious Outline Italic
+  fontNames:
+  - Red Delicious Outline Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1627faa55a63e4d3b84ca282267e148e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

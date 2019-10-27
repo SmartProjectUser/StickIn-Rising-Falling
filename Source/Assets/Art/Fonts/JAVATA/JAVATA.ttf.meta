@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b6741eb9816af474e8c8e66206e469fd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JAVATA
+  fontNames:
+  - JAVATA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95bdd83c73d634ea1aa2dc9e43338f79, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e13d44ee0e13f4e6b9983bc11b82e8ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Coffin Stone Expanded Italic
+  fontNames:
+  - Coffin Stone Expanded Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8893f5ec48cdd4ff7b5de81c230b48d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c62b99963584548a682ebe13dee86dd9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious Title Italic
+  fontNames:
+  - Red Delicious Title Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02e78f6e0fce8460c9c5f83087403c1e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c9acdad67101644848df37c0dd001b18
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious Super-Italic
+  fontNames:
+  - Red Delicious Super-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61b853ce32a514529a5b2cfa6dcff756, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

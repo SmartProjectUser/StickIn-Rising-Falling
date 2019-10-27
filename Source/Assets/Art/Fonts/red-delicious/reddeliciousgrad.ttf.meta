@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9425147ee10ad460294c33014e455062
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Red Delicious Gradient
+  fontNames:
+  - Red Delicious Gradient
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68b962031c5064165adbd1c8e1ef0f48, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
